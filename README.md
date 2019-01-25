@@ -1,4 +1,4 @@
 # Neural-Network-Implementation
-Classification of Zalando MNIST data set using Vectorized Batch gradient descent.
+Classification of Zalando MNIST data set using vectorized backprop.
 
 ![Screenshot](download.png)
